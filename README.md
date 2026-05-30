@@ -51,7 +51,7 @@ Procedure for Load test:
      <img width="609" height="698" alt="Screenshot 2025-10-18 085930" src="https://github.com/user-attachments/assets/815855bf-9c63-4929-aa06-dee5fbf3b742" />
 
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test\
 
 Tabulation for Load Test:
 
